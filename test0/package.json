@@ -1,0 +1,14 @@
+{
+    "name": "my-nodejs-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js app with tests.",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^27.0.0"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+  }
